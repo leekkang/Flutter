@@ -11,7 +11,7 @@
 
 * App code for 1 text and 1 button
 
-```
+```javascript
 import 'package:flutter/material.dart';
 
 // like as lambda expression
@@ -100,7 +100,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
 * App code of scrolling + favorited icon + child widget
 
-```
+```javascript
 import 'package:flutter/material.dart';
 import 'package:english_words/english_words.dart';
 
